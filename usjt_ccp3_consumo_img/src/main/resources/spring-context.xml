@@ -1,0 +1,1 @@
+<bean id="MultipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver" />
